@@ -1,10 +1,20 @@
-# SpiritVibeTik — AI-Assisted Member & Digital Experience Platform
+# SpiritVibeTik
 
-SpiritVibeTik is an AI-assisted digital platform combining member experiences, content delivery, guided journeys, automation, community features, and cloud-based application delivery.
+### AI-Assisted Member & Digital Experience Platform
 
-## Product direction
+**Portfolio status:** Public case study · Production implementation remains private
 
-The platform is designed to give members a structured experience instead of presenting disconnected content. It combines onboarding, guided journeys, member access, content, digital products, and AI-assisted interaction.
+SpiritVibeTik is an AI-assisted digital platform combining member experiences, content delivery, guided journeys, automation, community features and cloud-based application delivery.
+
+## Product problem
+
+A member can easily become lost when content, products, community and guidance are presented as disconnected sections.
+
+SpiritVibeTik is designed around a structured journey so a member can understand where to begin, what to do next and which experience is relevant to them.
+
+## My role
+
+I shaped the product around guided onboarding, role-aware access, member journeys, protected admin operations, digital content and AI-assisted interaction.
 
 ## Selected capabilities
 
@@ -19,44 +29,34 @@ The platform is designed to give members a structured experience instead of pres
 - Admin-oriented operational controls
 - Cloud-connected application delivery
 
-## Architecture pattern
+## Architecture
 
-```
-Member web application
-        ↓
-Authentication / access
-        ↓
-Content + application services
-        ↓
-AI connector / workflow layer
-        ↓
-Database + operational controls
+```mermaid
+flowchart TD
+    A[Member web application] --> B[Authentication & access]
+    B --> C[Content & application services]
+    C --> D[AI connector / workflow layer]
+    D --> E[Database & operational controls]
+    E --> C
 ```
 
-## Implementation focus
+## Experience principles
 
 - Keep public/member experiences separate from private admin controls
-- Protect internal prompts, tools, and privileged routes
+- Protect internal prompts, privileged routes and tools
 - Use clear entitlement and role boundaries
-- Design mobile-first while maintaining an operator-grade admin experience
-- Build guided user journeys so members understand what to do next
+- Design mobile-first
+- Give members a clear next step
+- Keep operator controls visible and manageable from the admin side
 
 ## Technical focus
 
-- React / TypeScript application experiences
-- Authentication and role-based access
-- AI-assisted workflows
-- Content and digital-product systems
-- Member/community features
-- Cloud deployment
-- Database integrations
-- GitHub-based development and delivery
+React · TypeScript · authentication · role-based access · AI-assisted workflows · content systems · digital products · community features · database integrations · cloud deployment · GitHub delivery
 
-## Portfolio scope
+## Public portfolio boundary
 
-This public repository is intentionally sanitized. It does not include private prompts, member data, credentials, payment secrets, internal AI services, or production infrastructure details.
+This repository intentionally excludes private prompts, member data, credentials, payment secrets, internal AI services and production infrastructure details.
 
 ---
 
-**Shadova AI**  
-Building AI-powered business systems, automation, cloud applications, and digital products.
+**Shadova AI** — AI-powered business systems, automation, cloud applications and digital products.
