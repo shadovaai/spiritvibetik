@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./7F0FAEB2-B9A8-4859-84DA-4B736AC1FF90.png" alt="Spirit Vibestik — Sacred journeys, healing audio, private guidance & community" width="100%">
+  <img src="./assets/spirit-vibestik-banner.png" alt="Spirit Vibestik — Sacred journeys, healing audio, private guidance & community" width="100%">
 </p>
+
+*Portfolio visualization — public case study; production implementation remains private*
 
 # Spirit Vibestik
 
