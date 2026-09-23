@@ -1,16 +1,20 @@
-# SpiritVibeTik
+<p align="center">
+  <img src="./7F0FAEB2-B9A8-4859-84DA-4B736AC1FF90.png" alt="Spirit Vibestik — Sacred journeys, healing audio, private guidance & community" width="100%">
+</p>
+
+# Spirit Vibestik
 
 ### AI-Assisted Member & Digital Experience Platform
 
 **Portfolio status:** Public case study · Production implementation remains private
 
-SpiritVibeTik is an AI-assisted digital platform combining member experiences, content delivery, guided journeys, automation, community features and cloud-based application delivery.
+Spirit Vibestik is an AI-assisted digital platform combining member experiences, content delivery, guided journeys, automation, community features and cloud-based application delivery.
 
 ## Product problem
 
 A member can easily become lost when content, products, community and guidance are presented as disconnected sections.
 
-SpiritVibeTik is designed around a structured journey so a member can understand where to begin, what to do next and which experience is relevant to them.
+Spirit Vibestik is designed around a structured journey so a member can understand where to begin, what to do next and which experience is relevant to them.
 
 ## My role
 
